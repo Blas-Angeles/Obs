@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "2d769fceb9e5d7d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "38de82735f6ea894",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a245a0be2ae024cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003 - ZETTELKASTEN/000 - Notas/Edipo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66f92d4aef210fd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe44b7190d5f22f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "082bf5e4c958e182",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f25817ba9e7691d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bec005bb4be2804b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "right": {
+    "id": "b14b5e1b303881f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2a9a22a5156c707",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "801882070f35d172",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "003 - ZETTELKASTEN/000 - Notas/Edipo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d51abb1322558181",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "003 - ZETTELKASTEN/000 - Notas/Edipo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1dfc50fd2c6f74e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f118ace06e17956",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "003 - ZETTELKASTEN/000 - Notas/Edipo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a245a0be2ae024cb",
+  "lastOpenFiles": [
+    "003 - ZETTELKASTEN/000 - Notas/Formulación de Estratégias.md",
+    "003 - ZETTELKASTEN/000 - Notas/Edipo.md",
+    "003 - ZETTELKASTEN/000 - Notas/Hamlet.md",
+    "003 - ZETTELKASTEN/000 - Notas/040 - Temas/Empresa.md",
+    "999 - Referencia/Markdown/Formatos texto.md",
+    "Excalidraw/Análisis Estratégico.md",
+    "Plantillas/Mitos.md",
+    "Edipo.md",
+    "Plantillas/Extractos.md",
+    "Plantillas/Test.md",
+    "003 - ZETTELKASTEN/000 - Notas/Análisis Estratégico o del Entorno.md",
+    "003 - ZETTELKASTEN/000 - Notas/Tipos de Estratégias.md",
+    "Excalidraw/Tipos de  Estratégias.md",
+    "Excalidraw/Formulación de Estratégias.md",
+    "003 - ZETTELKASTEN/000 - Notas/Proceso Estratégico.md",
+    "Excalidraw/Proceso Estratégico.md",
+    "Excalidraw/Excalidraw 2024-01-14 19.45.00.excalidraw.md",
+    "Epicteto.md",
+    "Pasted image 20230901100926.png",
+    "perezgorosteguieduardoDireccionEstrategicaEmpresa.md",
+    "003 - ZETTELKASTEN/000 - Notas/Reflexión sobre video Zettelkasten.md",
+    "003 - ZETTELKASTEN/000 - Notas/Panel ZK.md",
+    "003 - ZETTELKASTEN/010 - Bibliografía/Enquiridion.md",
+    "003 - ZETTELKASTEN/000 - Notas/040 - Temas/Desarrollo Personal.md",
+    "003 - ZETTELKASTEN/010 - Bibliografía/000-Estado Bibliografía.md",
+    "003 - ZETTELKASTEN/000 - Notas/040 - Temas/Productividad.md",
+    "003 - ZETTELKASTEN/010 - Bibliografía/020 - Extractos/Dirección Estratégica de la Empresa.md",
+    "Excalidraw",
+    "004 - Ficheros/LocalGraph.png",
+    "004 - Ficheros/Never Split the Difference.jpg",
+    "999 - Referencia/Markdown",
+    "003 - ZETTELKASTEN/010 - Bibliografía/Adjuntos/Tabla Zattelkasten.png",
+    "003 - ZETTELKASTEN/010 - Bibliografía/Adjuntos/Enquiridion.png",
+    "004 - Ficheros",
+    "003 - ZETTELKASTEN/000 - Notas/TAROT/Bibliografía/Adjuntos",
+    "003 - ZETTELKASTEN/000 - Notas/TAROT/Bibliografía/Extractos",
+    "003 - ZETTELKASTEN/000 - Notas/TAROT/Bibliografía",
+    "003 - ZETTELKASTEN/000 - Notas/Tarot",
+    "UNED/Estrategias y Políticas de Empresa (024069)/Libro - Dirección Estratégica de la Empresa",
+    "UNED/Juegos de Empresa (024129)",
+    "UNED/Estrategias y Políticas de Empresa (024069)",
+    "Pasted image 20230831103401.png",
+    "Pasted image 20230831103300.png",
+    "Pasted image 20230831103200.png",
+    "Pasted image 20230831103122.png",
+    "Pasted image 20230820204905.png"
+  ]
+}

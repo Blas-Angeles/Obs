@@ -1,0 +1,3 @@
+# Acrónimos
+BATNA:
+ZOPA:
