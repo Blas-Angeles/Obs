@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 - ZETTELKASTEN/000 - Notas/Tipos de Estratégias.md",
-                "mode": "source",
-                "source": false
+                "file": "Cabala2024.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 - ZETTELKASTEN/000 - Notas/Tipos de Estratégias.md",
+                "file": "Cabala2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003 - ZETTELKASTEN/000 - Notas/Tipos de Estratégias.md",
+                "file": "Cabala2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 - ZETTELKASTEN/000 - Notas/Tipos de Estratégias.md"
+                "file": "Cabala2024.md"
               }
             }
           }
@@ -138,64 +138,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "a245a0be2ae024cb",
   "lastOpenFiles": [
-    "003 - ZETTELKASTEN/000 - Notas/Reflexión sobre video Zettelkasten.md",
-    "003 - ZETTELKASTEN/000 - Notas/Proceso Estratégico.md",
-    "003 - ZETTELKASTEN/000 - Notas/Hamlet.md",
-    "003 - ZETTELKASTEN/000 - Notas/Edipo.md",
     "Epicteto.md",
     "Cabala2024.md",
-    "003 - ZETTELKASTEN/000 - Notas/Formulación de Estratégias.md",
-    "003 - ZETTELKASTEN/000 - Notas/040 - Temas/Empresa.md",
-    "999 - Referencia/Markdown/Formatos texto.md",
-    "Excalidraw/Análisis Estratégico.md",
-    "Plantillas/Mitos.md",
-    "Edipo.md",
-    "Plantillas/Extractos.md",
-    "Plantillas/Test.md",
-    "003 - ZETTELKASTEN/000 - Notas/Análisis Estratégico o del Entorno.md",
-    "003 - ZETTELKASTEN/000 - Notas/Tipos de Estratégias.md",
-    "Excalidraw/Tipos de  Estratégias.md",
-    "Excalidraw/Formulación de Estratégias.md",
-    "Excalidraw/Proceso Estratégico.md",
-    "Excalidraw/Excalidraw 2024-01-14 19.45.00.excalidraw.md",
-    "Pasted image 20230901100926.png",
-    "perezgorosteguieduardoDireccionEstrategicaEmpresa.md",
+    "002 - PARA/02 - Áreas/Citas.md",
+    "002 - PARA/02 - Áreas/Adjuntos/Pasted image 20241026204416.png",
+    "002 - PARA/02 - Áreas/Adjuntos/Pasted image 20241026204321.png",
+    "002 - PARA/02 - Áreas/Adjuntos/Pasted image 20241026204244.png",
+    "002 - PARA/02 - Áreas/Adjuntos/Pasted image 20241026204153.png",
+    "002 - PARA/02 - Áreas/Adjuntos/Pasted image 20241026203726.png",
+    "002 - PARA/02 - Áreas/Adjuntos/Pasted image 20241026203622.png",
+    "002 - PARA/02 - Áreas/Adjuntos/Pasted image 20241026203408.png",
+    "002 - PARA/02 - Áreas/Adjuntos/Pasted image 20241026203338.png",
+    "002 - PARA/02 - Áreas/Adjuntos/Pasted image 20241026203234.png",
+    "002 - PARA/02 - Áreas/Adjuntos/Pasted image 20241026203136.png",
+    "002 - PARA/02 - Áreas/Adjuntos",
+    "003 - ZETTELKASTEN/010 - Bibliografía/020 - Extractos/Enquiridion/Cap 48.P88.P1. Signos de progreso.md",
+    "002 - PARA/04 - Archivo",
+    "002 - PARA/03 - Recursos",
+    "002 - PARA/02 - Áreas",
+    "002 - PARA/01 - Proyectos",
+    "002 - PARA",
     "003 - ZETTELKASTEN/000 - Notas/Panel ZK.md",
+    "003 - ZETTELKASTEN/010 - Bibliografía/Split the Difference (Rompe la barrera del no).md",
+    "003 - ZETTELKASTEN/010 - Bibliografía/020 - Extractos/Método Zettelkasten/Tabla método Zettelkasten 1.md",
     "003 - ZETTELKASTEN/010 - Bibliografía/Enquiridion.md",
-    "003 - ZETTELKASTEN/000 - Notas/040 - Temas/Desarrollo Personal.md",
-    "003 - ZETTELKASTEN/010 - Bibliografía/000-Estado Bibliografía.md",
-    "003 - ZETTELKASTEN/000 - Notas/040 - Temas/Productividad.md",
+    "003 - ZETTELKASTEN/000 - Notas/Reflexión sobre video Zettelkasten.md",
+    "003 - ZETTELKASTEN/000 - Notas/Formulación de Estratégias.md",
+    "003 - ZETTELKASTEN/000 - Notas/Edipo.md",
+    "003 - ZETTELKASTEN/000 - Notas/Dilema del Prisionero.md",
+    "003 - ZETTELKASTEN/000 - Notas/Cábala.md",
+    "003 - ZETTELKASTEN/000 - Notas/040 - Temas/Empresa.md",
+    "003 - ZETTELKASTEN/000 - Notas/Hamlet.md",
+    "999 - Referencia/Markdown/Tablas.md",
+    "999 - Referencia/Markdown/Formatos texto.md",
+    "999 - Referencia/Markdown/Listas.md",
+    "999 - Referencia/Markdown/Organigrama.md",
+    "999 - Referencia/Markdown/SQL.md",
+    "999 - Referencia/Markdown/Títulos.md",
+    "001 - GTD/001 - Entrada/Diferencias entre Sexo , Genero y Orientación Sexual.md",
+    "003 - ZETTELKASTEN/000 - Notas/Tipos de Estratégias.md",
+    "003 - ZETTELKASTEN/000 - Notas/Proceso Estratégico.md",
+    "Excalidraw/Análisis Estratégico.md",
     "Excalidraw",
-    "004 - Ficheros/LocalGraph.png",
-    "004 - Ficheros/Never Split the Difference.jpg",
     "999 - Referencia/Markdown",
-    "003 - ZETTELKASTEN/010 - Bibliografía/Adjuntos/Tabla Zattelkasten.png",
-    "003 - ZETTELKASTEN/010 - Bibliografía/Adjuntos/Enquiridion.png",
     "004 - Ficheros",
-    "003 - ZETTELKASTEN/000 - Notas/TAROT/Bibliografía/Adjuntos",
-    "003 - ZETTELKASTEN/000 - Notas/TAROT/Bibliografía/Extractos",
-    "003 - ZETTELKASTEN/000 - Notas/TAROT/Bibliografía",
-    "003 - ZETTELKASTEN/000 - Notas/Tarot",
-    "UNED/Estrategias y Políticas de Empresa (024069)/Libro - Dirección Estratégica de la Empresa",
-    "UNED/Juegos de Empresa (024129)",
-    "UNED/Estrategias y Políticas de Empresa (024069)",
-    "Pasted image 20230831103401.png",
-    "Pasted image 20230831103300.png",
-    "Pasted image 20230831103200.png",
-    "Pasted image 20230831103122.png",
-    "Pasted image 20230820204905.png"
+    "003 - ZETTELKASTEN/000 - Notas/TAROT/Bibliografía/Adjuntos"
   ]
 }
