@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a245a0be2ae024cb",
+            "id": "c515e1af17056b40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 - ZETTELKASTEN/000 - Notas/Tabla Esmeralda.md",
+                "file": "03 - RECURSOS/Bibliografía/La Rama Dorada/Conceptos/01 - Concepto.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "01 - Concepto"
             }
           }
         ],
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -49,13 +53,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Libro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -63,14 +69,30 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "f11a6bfaebf17f36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - AREAS/Esoterismo/Tabla Esmeralda.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tabla Esmeralda"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 354.5
   },
   "right": {
     "id": "b14b5e1b303881f3",
@@ -86,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 - ZETTELKASTEN/000 - Notas/Tabla Esmeralda.md",
+                "file": "03 - RECURSOS/Bibliografía/La Rama Dorada/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Sin título"
             }
           },
           {
@@ -103,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003 - ZETTELKASTEN/000 - Notas/Tabla Esmeralda.md",
+                "file": "03 - RECURSOS/Bibliografía/La Rama Dorada/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Sin título"
             }
           },
           {
@@ -117,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -126,72 +154,77 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 - ZETTELKASTEN/000 - Notas/Tabla Esmeralda.md"
-              }
+                "file": "03 - RECURSOS/Bibliografía/La Rama Dorada/Sin título.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Sin título"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a245a0be2ae024cb",
+  "active": "082bf5e4c958e182",
   "lastOpenFiles": [
-    "003 - ZETTELKASTEN/000 - Notas/Reflexión sobre video Zettelkasten.md",
-    "003 - ZETTELKASTEN/000 - Notas/Tabla Esmeralda.md",
-    "003 - ZETTELKASTEN/000 - Notas/Tipos de Estratégias.md",
-    "003 - ZETTELKASTEN/000 - Notas/Proceso Estratégico.md",
-    "003 - ZETTELKASTEN/000 - Notas/Hamlet.md",
-    "003 - ZETTELKASTEN/000 - Notas/Edipo.md",
-    "Epicteto.md",
-    "Cabala2024.md",
-    "003 - ZETTELKASTEN/000 - Notas/Formulación de Estratégias.md",
-    "003 - ZETTELKASTEN/000 - Notas/040 - Temas/Empresa.md",
-    "999 - Referencia/Markdown/Formatos texto.md",
-    "Excalidraw/Análisis Estratégico.md",
-    "Plantillas/Mitos.md",
-    "Edipo.md",
-    "Plantillas/Extractos.md",
-    "Plantillas/Test.md",
-    "003 - ZETTELKASTEN/000 - Notas/Análisis Estratégico o del Entorno.md",
-    "Excalidraw/Tipos de  Estratégias.md",
-    "Excalidraw/Formulación de Estratégias.md",
-    "Excalidraw/Proceso Estratégico.md",
-    "Excalidraw/Excalidraw 2024-01-14 19.45.00.excalidraw.md",
-    "Pasted image 20230901100926.png",
-    "perezgorosteguieduardoDireccionEstrategicaEmpresa.md",
-    "003 - ZETTELKASTEN/000 - Notas/Panel ZK.md",
-    "003 - ZETTELKASTEN/010 - Bibliografía/Enquiridion.md",
-    "003 - ZETTELKASTEN/000 - Notas/040 - Temas/Desarrollo Personal.md",
-    "003 - ZETTELKASTEN/010 - Bibliografía/000-Estado Bibliografía.md",
-    "Excalidraw",
-    "004 - Ficheros/LocalGraph.png",
     "004 - Ficheros/Never Split the Difference.jpg",
-    "999 - Referencia/Markdown",
-    "003 - ZETTELKASTEN/010 - Bibliografía/Adjuntos/Tabla Zattelkasten.png",
-    "003 - ZETTELKASTEN/010 - Bibliografía/Adjuntos/Enquiridion.png",
+    "004 - Ficheros/LocalGraph.png",
     "004 - Ficheros",
-    "003 - ZETTELKASTEN/000 - Notas/TAROT/Bibliografía/Adjuntos",
-    "003 - ZETTELKASTEN/000 - Notas/TAROT/Bibliografía/Extractos",
-    "003 - ZETTELKASTEN/000 - Notas/TAROT/Bibliografía",
-    "003 - ZETTELKASTEN/000 - Notas/Tarot",
-    "UNED/Estrategias y Políticas de Empresa (024069)/Libro - Dirección Estratégica de la Empresa",
-    "UNED/Juegos de Empresa (024129)",
-    "UNED/Estrategias y Políticas de Empresa (024069)",
+    "2 - P.A.R.A./2.2 - Áreas/Filosofía/Epicteto.md",
+    "2 - P.A.R.A./2.2 - Áreas/Filosofía",
+    "2 - P.A.R.A./2.2 - Áreas/Mitología/Edipo.md",
+    "2 - P.A.R.A./2.2 - Áreas/Mitología",
+    "2 - P.A.R.A./2.2 - Áreas/Esoterismo/Tabla Esmeralda.md",
+    "2 - P.A.R.A./2.2 - Áreas/Esoterismo",
+    "2 - P.A.R.A./2.2 - Áreas/Productividad/Aplicaciones.md",
+    "2 - P.A.R.A./2.2 - Áreas/Productividad",
+    "2 - P.A.R.A./2.2 - Áreas/UNED/Proceso Estratégico.md",
+    "2 - P.A.R.A./2.2 - Áreas/UNED/Formulación de Estratégias.md",
+    "2 - P.A.R.A./2.2 - Áreas/UNED/Análisis Estratégico o del Entorno.md",
+    "2 - P.A.R.A./2.2 - Áreas/UNED/Tipos de Estratégias.md",
+    "2 - P.A.R.A./2.2 - Áreas/UNED",
+    "2 - P.A.R.A./2.2 - Áreas",
+    "2 - P.A.R.A.",
+    "1 - GTD/1.2 - Entrada/Glosario.md",
+    "1 - GTD/1.2 - Entrada/Diferencias entre Sexo , Genero y Orientación Sexual.md",
+    "1 - GTD/1.2 - Entrada",
+    "1 - GTD",
+    "003 - ZETTELKASTEN/000 - Notas/Hamlet.md",
+    "003 - ZETTELKASTEN/000 - Notas/Panel ZK.md",
+    "003 - ZETTELKASTEN/000 - Notas/040 - Temas/Productividad.md",
+    "003 - ZETTELKASTEN/000 - Notas/040 - Temas/Empresa.md",
+    "003 - ZETTELKASTEN/000 - Notas/040 - Temas/Desarrollo Personal.md",
+    "003 - ZETTELKASTEN/000 - Notas/Reflexión sobre video Zettelkasten.md",
+    "003 - ZETTELKASTEN/010 - Bibliografía/Split the Difference (Rompe la barrera del no).md",
+    "003 - ZETTELKASTEN/010 - Bibliografía/020 - Extractos/Enquiridion/Cap 33.P75.P3. Hablar de tus propios actos.md",
+    "003 - ZETTELKASTEN/010 - Bibliografía/020 - Extractos/Enquiridion/Cap 33.P71.P2. Nunca digas nada de nadie.md",
+    "003 - ZETTELKASTEN/010 - Bibliografía/020 - Extractos/Enquiridion/Cap 33.P73.P2. Placeres carnales.md",
+    "003 - ZETTELKASTEN/010 - Bibliografía/020 - Extractos/Enquiridion/Cap 13.P44.P1. Si quieres mejorar.md",
+    "003 - ZETTELKASTEN/010 - Bibliografía/020 - Extractos/Enquiridion/Cap 44.P84.P1. Razonamientos coherentes.md",
+    "003 - ZETTELKASTEN/010 - Bibliografía/020 - Extractos/Enquiridion/0 Prl.P09.P1. Sobre Epicteto.md",
+    "003 - ZETTELKASTEN/010 - Bibliografía/020 - Extractos/Enquiridion/0 Prl.P20.P1. El destino.md",
+    "003 - ZETTELKASTEN/010 - Bibliografía/020 - Extractos/Enquiridion/Cap 06.P38.P2. Mérito que corresponde a otro.md",
+    "03 - RECURSOS/Bibliografía/Never Split the Difference/Never Split the Difference.jpg",
+    "03 - RECURSOS/Bibliografía/Sin título.canvas",
+    "03 - RECURSOS/Bibliografía/Adjuntos/Tabla Zattelkasten.png",
+    "03 - RECURSOS/Bibliografía/Adjuntos/Enquiridion.png",
+    "03 - RECURSOS/Bibliografía/Enquiridion/Pasted image 20230901100926.png",
+    "P.A.R.A./Sin título.canvas",
     "Pasted image 20230831103401.png",
     "Pasted image 20230831103300.png",
     "Pasted image 20230831103200.png",
