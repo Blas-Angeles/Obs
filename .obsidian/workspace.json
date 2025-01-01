@@ -11,11 +11,17 @@
             "id": "a245a0be2ae024cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "003 - ZETTELKASTEN/000 - Notas/Tipos de Estratégias.md",
-                "mode": "source",
-                "source": false
+                "file": "Libros.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -86,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 - ZETTELKASTEN/000 - Notas/Tipos de Estratégias.md",
+                "file": "Libros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003 - ZETTELKASTEN/000 - Notas/Tipos de Estratégias.md",
+                "file": "Libros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 - ZETTELKASTEN/000 - Notas/Tipos de Estratégias.md"
+                "file": "Libros.md"
               }
             }
           }
@@ -134,28 +140,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "a245a0be2ae024cb",
   "lastOpenFiles": [
+    "Epicteto.md",
+    "Libros.md",
+    "003 - ZETTELKASTEN/000 - Notas/Tipos de Estratégias.md",
     "003 - ZETTELKASTEN/000 - Notas/Reflexión sobre video Zettelkasten.md",
     "003 - ZETTELKASTEN/000 - Notas/Proceso Estratégico.md",
     "003 - ZETTELKASTEN/000 - Notas/Hamlet.md",
     "003 - ZETTELKASTEN/000 - Notas/Edipo.md",
-    "Epicteto.md",
     "Cabala2024.md",
     "003 - ZETTELKASTEN/000 - Notas/Formulación de Estratégias.md",
     "003 - ZETTELKASTEN/000 - Notas/040 - Temas/Empresa.md",
@@ -166,7 +176,6 @@
     "Plantillas/Extractos.md",
     "Plantillas/Test.md",
     "003 - ZETTELKASTEN/000 - Notas/Análisis Estratégico o del Entorno.md",
-    "003 - ZETTELKASTEN/000 - Notas/Tipos de Estratégias.md",
     "Excalidraw/Tipos de  Estratégias.md",
     "Excalidraw/Formulación de Estratégias.md",
     "Excalidraw/Proceso Estratégico.md",
@@ -177,7 +186,6 @@
     "003 - ZETTELKASTEN/010 - Bibliografía/Enquiridion.md",
     "003 - ZETTELKASTEN/000 - Notas/040 - Temas/Desarrollo Personal.md",
     "003 - ZETTELKASTEN/010 - Bibliografía/000-Estado Bibliografía.md",
-    "003 - ZETTELKASTEN/000 - Notas/040 - Temas/Productividad.md",
     "Excalidraw",
     "004 - Ficheros/LocalGraph.png",
     "004 - Ficheros/Never Split the Difference.jpg",
